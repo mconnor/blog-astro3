@@ -22,5 +22,6 @@
     "eslint-plugin-astro": "^0.29.0",
     "prettier": "^3.0.3",
     "prettier-plugin-astro": "^0.12.0"
-  }
+  },
+  "packageManager": "^pnpm@8.7.5"
 }
